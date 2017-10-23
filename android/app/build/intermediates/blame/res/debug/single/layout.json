@@ -32,12 +32,12 @@
         "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
-        "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
         "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.3/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",

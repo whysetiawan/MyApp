@@ -109,7 +109,12 @@ export default class Payment extends Component {
     }
 			}];
 			const paymentRequest = new PaymentRequest(METHOD_DATA, DETAILS);
-			paymentRequest.show()
+			paymentRequest.show().then((response)=>{
+        console.log(response)
+      })
+      .catch((e) => {
+        console.log(e)
+      })
 
     }
 

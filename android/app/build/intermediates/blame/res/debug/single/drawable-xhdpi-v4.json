@@ -4,12 +4,12 @@
         "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_icon_blue.png",
-        "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
-    },
-    {
         "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png",
         "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_icon_blue.png",
+        "source": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.22.1/res/drawable-xhdpi-v4/com_facebook_button_icon_blue.png"
     },
     {
         "merged": "/home/studio/Documents/React-Native/MyApp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
