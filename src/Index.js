@@ -25,7 +25,7 @@ export default class Signin extends Component {
 	}
 
   componentWillMount(){
-    this.props.navigation.navigate('Checkout')
+    this.props.navigation.navigate('Add')
   }
 
   	signIn(){
